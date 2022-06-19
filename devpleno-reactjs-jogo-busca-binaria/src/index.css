@@ -1,0 +1,41 @@
+/* corpo do documento */
+* {
+  text-align: center;
+  font-family: Roboto;
+}
+
+/* texto */
+h3 {
+  font-size: larger;
+}
+
+p {
+  font-size: larger;
+}
+
+.negrito {
+  font-weight: bold;
+}
+
+/* botões */
+button {
+  background-color: limegreen;
+  border: 0;
+  padding: 10px;
+  margin: 10px;
+  color: white;
+  border-radius: 5px;
+}
+
+.btn {
+  background-color: gold;
+  color: crimson;
+}
+
+.btn-menor {
+  background-color: crimson;
+}
+
+.btn-maior {
+  background-color: mediumblue;
+}

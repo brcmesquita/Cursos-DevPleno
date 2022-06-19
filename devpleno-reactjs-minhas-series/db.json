@@ -1,0 +1,52 @@
+{
+  "series": {
+    "1617756947161": {
+      "name": "La Casa de Papel",
+      "status": "PARA_ASSISTIR",
+      "genre_id": 1617756924801,
+      "comments": "Não tenho interesse em série de bandido",
+      "poster": "//image.tmdb.org/t/p/original/yVUAfbrP5HDJugXraB7KQS0yz6Z.jpg",
+      "background": "//image.tmdb.org/t/p/original/xGexTKCJDkl12dTW4YCBDXWb1AD.jpg"
+    },
+    "1617756993087": {
+      "name": "Supernatural",
+      "status": "PARA_ASSISTIR",
+      "genre_id": 1617667670250,
+      "comments": "Série do capiroto",
+      "poster": "//image.tmdb.org/t/p/original/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg",
+      "background": "//image.tmdb.org/t/p/original/nVRyd8hlg0ZLxBn9RaI7mUMQLnz.jpg"
+    },
+    "1617757030368": {
+      "name": "Smallville",
+      "status": "ASSISTIDO",
+      "genre_id": 1617668209570,
+      "comments": "Muito legal, pena que acabou!",
+      "poster": "//image.tmdb.org/t/p/original/oVXXF5TqtHXOmJjf7xdO1upq7WE.jpg",
+      "background": "//image.tmdb.org/t/p/original/8A2IYYRLM5rR0hYwbWJr9KLPnUu.jpg"
+    }
+  },
+  "genres": {
+    "1": {
+      "name": "Ação"
+    },
+    "2": {
+      "name": "Comédia"
+    },
+    "1617667670250": {
+      "name": "Ficção"
+    },
+    "1617668146059": {
+      "name": "Épico"
+    },
+    "1617668209570": {
+      "name": "Superheróis"
+    },
+    "1617754384573": {
+      "name": "Drama"
+    },
+    "1617756924801": {
+      "name": "Policial"
+    }
+  },
+  "count": 0
+}
